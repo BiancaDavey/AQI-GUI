@@ -1,6 +1,6 @@
-# aqigui
+# AQI-GUI
 
-AQI GUI is a program providing a Graphical User Interface for users to input values which will be used to calculate and return AQI readings.
+AQI-GUI is a program providing a Graphical User Interface for users to input values which will be used to calculate and return AQI readings.
 
 ## Features
 
