@@ -1,13 +1,13 @@
 # AQI-GUI
 
-AQI-GUI is a program providing a Graphical User Interface for users to input values which will be used to calculate and return AQI readings.
+AQI-GUI is a program providing a Graphical User Interface for users to input values representing ozone, sulfur-dioxide and particle readings, which are used to calculate and return AQI readings.
 
 ## Features
 
 * Unlimited AQI readings are able to be calculated and returned by the program
 * Simple GUI
 * Rapid return of AQI result
-* Error handling with user-friendly guidance prompts to verify input
+* Error handling to verify user input as positive integers only
 
 ## Installation
 
@@ -24,8 +24,8 @@ Python 3 and tkinter are required to run this program.
 ```
 python3 aqigui.py
 ```
-![Using the GUI for the AQI program](aqi_gui.png)
-![Error message for entering an invalid character](aqi_gui_error.png)
+[![AQI-GUIDemo1.png](https://i.postimg.cc/cCYfYJB6/AQI-GUIDemo1.png)](https://postimg.cc/ctxKG0jN)
+[![aqigui-Error-handling-demonstration.png](https://i.postimg.cc/yNgxWbP8/aqigui-Error-handling-demonstration.png)](https://postimg.cc/mc4B5VJv)
 
 
 ## Author
