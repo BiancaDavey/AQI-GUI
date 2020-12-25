@@ -7,22 +7,22 @@ AQI-GUI is a program providing a Graphical User Interface for users to input val
 * Unlimited AQI readings are able to be calculated and returned by the program
 * Simple GUI
 * Rapid return of AQI result
-* User-friendly guidance prompts used for errors
+* Error handling with user-friendly guidance prompts to verify input
 
 ## Installation
 
-Python 3 is required to run this program.
+Python 3 and tkinter are required to run this program.
 
 ## Usage
 
-1. Run the program to open the GUI using the command `nano aqigui.py`.
+1. Run the program to open the GUI using the command `python3 aqigui.py`.
 2. Type any positive integer into each input field.
 3. Press the `Calculate AQI` button or press the Enter key to run the function to return an AQI calculation.
 
 ## Usage Example
 
 ```
-nano aqigui.py
+python3 aqigui.py
 ```
 ![Using the GUI for the AQI program](aqi_gui.png)
 ![Error message for entering an invalid character](aqi_gui_error.png)
